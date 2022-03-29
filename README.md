@@ -4,7 +4,7 @@
 
 afdsfds
 ERRROR
-CadI search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
+asdfdsfdsfCadI search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
 aims to help researchers speed up their exploration process for finding the right
 model architecture for their classification problems (i.e., DNNs with different types of layers).
 
